@@ -4,6 +4,7 @@ Code mau cho environment `Thangnv-beanstalk-env`.
 
 AWS CLI da check duoc environment hien tai:
 
+
 - Region: `ap-southeast-1`
 - Application: `thangnv-beanstalk`
 - Platform: `Node.js 24 running on 64bit Amazon Linux 2023/6.11.1`
